@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "catApiTest"
   spec.version       = CatApiTest::VERSION
   spec.authors       = ["Fredy KONIG"]
-  spec.email         = ["fredy@therelative.co.uk"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["fredy@konigTechnologies.co.uk"]
+  spec.summary       = %q{TODO: Command line for cat lovers.}
+  spec.description   = %q{TODO: Command line for cat lovers. it displays cat images or cat facts .}
   spec.homepage      = ""
   spec.license       = "MIT"
 

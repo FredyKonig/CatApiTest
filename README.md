@@ -4,7 +4,7 @@ A Ruby command line utility for Cat lovers
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your application's Gemfile, once loaded the gem manually (THIS IS ONLY FOR TESTING PURPOSES, not linked to rubygems):
 
     gem 'catApiTest'
 

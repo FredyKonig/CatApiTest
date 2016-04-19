@@ -1,9 +1,24 @@
 # CatApiTest
 
-a Ruby command line utility .
-for Cat lovers
+A Ruby command line utility for Cat lovers
 
-The command should have the following interface:
+## Installation
+
+Add this line to your application's Gemfile:
+
+    gem 'catApiTest'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install catApiTest
+
+## Usage
+
+The command  have the following interface:
 
 $ ruby cata.rb [browser|file|fact]
 
@@ -33,3 +48,11 @@ You may need to install it
 
 gem install rspec
 
+
+## Contributing
+
+1. Fork it ( http://github.com/<my-github-username>/catApiTest/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request

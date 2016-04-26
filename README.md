@@ -36,3 +36,4 @@ with fact, it should print to stdout a cat fact;
 support only ubuntu/linux operating systems.
 
 The testing is using RSPEC 3.
+

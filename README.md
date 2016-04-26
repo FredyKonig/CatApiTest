@@ -16,6 +16,7 @@ The command  have the following interface:
      $ ruby catApiTest.rb [browser|file|fact]
 
 with browser being the default if no arguments are passed.
+
      $ ruby ./lib/catApiTest.rb browser
 
 The program  interacts with the following public APIs:
@@ -37,4 +38,3 @@ also, implement a new argument of your choice to expand the program.
 support only ubuntu/linux operating systems.
 
 The testing is using RSPEC 3.
-

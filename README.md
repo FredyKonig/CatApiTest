@@ -8,7 +8,6 @@ Test to do gem
 
 THIS IS ONLY FOR TESTING PURPOSES, not linked to rubygems
     
-
 ## Usage
 
 The command  have the following interface:
@@ -33,7 +32,6 @@ with file, it should save on the desktop an image of a cat, as an image file;
 
 with fact, it should print to stdout a cat fact;
 
-also, implement a new argument of your choice to expand the program.
 
 support only ubuntu/linux operating systems.
 
